@@ -75,6 +75,10 @@ This project highlights the potential of CNNs, particularly **Inception V3**, in
 - **More Advanced Preprocessing**: Incorporating additional image processing techniques and conducting a hyperparameter search could yield better results.
 - **Model Optimization**: Exploring newer architectures, such as Inception V4 or EfficientNet, might lead to better accuracy with fewer computational resources.
 
+## References
+Refer to the detailed [Project Report](https://www.dropbox.com/scl/fi/s50rri2z1ve7xvba0xvav/VCS_report.pdf?rlkey=rlg5kgspa6zts1214echyeyta&st=oxhrsmtj&dl=0) for more insights into the methodologies and evaluations.
+
+
 ## License
 This project is licensed under the [GNU GPLv3 License](LICENSE).
 
