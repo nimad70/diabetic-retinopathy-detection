@@ -25,41 +25,11 @@ The project uses the [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RetinaVision-CNN.git
-   cd RetinaVision-CNN
+   git clone https://github.com/nimad70/diabetic-retinopathy-detection.git
+   cd diabetic-retinopathy-detection
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Download the dataset from Kaggle and place it in the `data` directory:
-   ```bash
-   mkdir data
-   # Place APTOS 2019 dataset here
-   ```
-
-4. Run the training script:
-   ```bash
-   python train.py
-   ```
-
-## Project Structure
-```
-RetinaVision-CNN/
-│
-├── data/                  # Directory to store the dataset
-├── models/                # Saved models after training
-├── notebooks/             # Jupyter notebooks for experiments
-├── src/                   # Source code for the project
-│   ├── data_loader.py     # Script to load and preprocess data
-│   ├── model.py           # Inception V3 model architecture and fine-tuning
-│   └── train.py           # Training and evaluation script
-├── results/               # Directory for storing results, metrics, and plots
-├── README.md              # Project overview
-└── requirements.txt       # Required Python packages
-```
+2. Explore the repository for scripts and data relevant to your experiments.
 
 ## Image Preprocessing Techniques
 
