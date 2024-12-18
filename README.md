@@ -78,6 +78,9 @@ This project highlights the potential of CNNs, particularly **Inception V3**, in
 ## References
 Refer to the detailed [Project Report](https://www.dropbox.com/scl/fi/s50rri2z1ve7xvba0xvav/VCS_report.pdf?rlkey=rlg5kgspa6zts1214echyeyta&st=oxhrsmtj&dl=0) for more insights into the methodologies and evaluations.
 
+## Contributions
+- **Nima Daryabar**
+- **Shab Pompeiano**
 
 ## License
 This project is licensed under the [GNU GPLv3 License](LICENSE).
